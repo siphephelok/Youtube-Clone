@@ -8,9 +8,7 @@
 
 [https://siphephelok.github.io/Youtube-Clone/youtube.html](https://siphephelok.github.io/Youtube-Clone/youtube.html)
 
-<h2>Project Screenshots:</h2>
 
-https://github.com/siphephelok/Youtube-Clone/blob/main/Youtube%20Clone.png
 
   
   
